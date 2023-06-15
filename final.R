@@ -1,5 +1,3 @@
-# 602377123한보름, 정상동작함
-
 # 4
 install.packages('animation')
 library(animation)
